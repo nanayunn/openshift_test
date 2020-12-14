@@ -13,7 +13,10 @@ images = [
 	"http://kids.dongascience.com/upload/posting/2020/08/26c9ff6cee4f797bc170271df98c9810.gif",
 	"http://kids.dongascience.com/upload/posting/2020/08/e19e355fb16792d329bb8ab7b9f33723.gif",
 	"https://upload2.inven.co.kr/upload/2018/05/26/bbs/i14701944056.gif",
-	"https://upload2.inven.co.kr/upload/2018/05/26/bbs/i14771846318.gif"
+	"https://upload2.inven.co.kr/upload/2018/05/26/bbs/i14771846318.gif",
+	"http://file3.instiz.net/data/cached_img/upload/2018/10/05/0/32ce32da25bfd6a8b5089938a215913a.gif",
+	"https://img.theqoo.net/proxy/https://i.imgur.com/u9BGxSl.gif",
+	"https://t1.daumcdn.net/cfile/tistory/227F154958B16E362B" 
         ]
 
 @app.route('/')
